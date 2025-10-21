@@ -10,6 +10,7 @@ namespace GitExample.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            //This is a comment for github
             _logger = logger;
         }
 
