@@ -21,6 +21,7 @@ namespace GitExample.Controllers
 
         public IActionResult Privacy()
         {
+            //This is a search box feature
             return View();
         }
 
